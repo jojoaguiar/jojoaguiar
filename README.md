@@ -7,7 +7,7 @@ No presente, dedico meus estudos ao ecossistema **Node.js** e ao desenvolvimento
 ### 🛠️ Tecnologias e Stack
 * **Linguagens & Frameworks:** JavaScript, Node.js e Python.
 * **Banco de Dados:** MySQL.
-* **Ferramentas favoritas:** Obsidian, Notion, Notepad++ e LibreOffice.
+* **Ferramentas favoritas:** Obsidian, Notion, VS code e Notepad++
 
 ### 📫 Vamos nos conectar?
 * **LinkedIn:** [João Victor de Aguiar](https://www.linkedin.com/in/jo%C3%A3o-victor-de-aguiar-68117a3a9/)
