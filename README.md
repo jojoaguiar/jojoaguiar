@@ -1,23 +1,18 @@
 ## Olá mundo, tudo bem? 👋
 
-Eu sou o [João](https://www.linkedin.com/in/jo%C3%A3o-victor-de-aguiar-68117a3a9/), desenvolvedor backend atualmente morando no Brasil. </br>
+Eu sou o [**João**](https://www.linkedin.com/in/jo%C3%A3o-victor-de-aguiar-68117a3a9/), desenvolvedor **Backend** e estudante de **Ciências da Computação** no Brasil. 🇧🇷
 
-No presente estudo frameworks de Node.js e REST API's. </br>
+No presente, dedico meus estudos ao ecossistema **Node.js** e ao desenvolvimento de **APIs REST**. ⚙️
 
-Minha stack de tecnologias relevantes são: JavaScript, Nodejs, MySQL, Python. Minhas ferramentas favoritas são: Obsidian, Notepad++, Notion e LibreOffice. </br>
+---
 
+### 🛠️ Tecnologias e Stack
+* **Linguagens & Frameworks:** JavaScript, Node.js e Python.
+* **Banco de Dados:** MySQL.
+* **Ferramentas favoritas:** Obsidian, Notion, Notepad++ e LibreOffice.
 
-<!--
-**jojoaguiar/jojoaguiar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📫 Vamos nos conectar?
+* **LinkedIn:** [João Victor de Aguiar](https://www.linkedin.com/in/jo%C3%A3o-victor-de-aguiar-68117a3a9/)
+* **E-mail:** [jojoaguiar1401@gmail.com]
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
