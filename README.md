@@ -13,6 +13,6 @@ No presente, dedico meus estudos ao ecossistema **Node.js** e ao desenvolvimento
 
 ### 📫 Vamos nos conectar?
 * **LinkedIn:** [João Victor de Aguiar](https://www.linkedin.com/in/jo%C3%A3o-victor-de-aguiar-68117a3a9/)
-* **E-mail:** [jojoaguiar1401@gmail.com]
+* **E-mail:** jojoaguiar1401@gmail.com
 
 ---
