@@ -1,6 +1,9 @@
 ## Oi, tudo bem? 👋
 
-Eu sou o [João](https://www.linkedin.com/in/jo%C3%A3o-victor-de-aguiar-68117a3a9/)
+Eu sou o [João](https://www.linkedin.com/in/jo%C3%A3o-victor-de-aguiar-68117a3a9/), desenvolvedor backend atualmente morando no Brasil.
+Atualmente estudo frameworks de Node.js e REST API's.
+Minha stack de tecnologias principais são: JavaScript, Nodejs, MySQL, Python. Minhas ferramentas favoritas são: Obsidian, Notepad++, Notion e LibreOffice.
+
 
 <!--
 **jojoaguiar/jojoaguiar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
