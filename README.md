@@ -1,4 +1,6 @@
-## Hi there 👋
+## Oi, tudo bem? 👋
+
+Eu sou o [João](https://www.linkedin.com/in/jo%C3%A3o-victor-de-aguiar-68117a3a9/)
 
 <!--
 **jojoaguiar/jojoaguiar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
