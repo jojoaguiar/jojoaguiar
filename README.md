@@ -1,8 +1,8 @@
-## Oi, tudo bem? 👋
+## Olá mundo, tudo bem? 👋
 
 Eu sou o [João](https://www.linkedin.com/in/jo%C3%A3o-victor-de-aguiar-68117a3a9/), desenvolvedor backend atualmente morando no Brasil. </br>
 
-No presente estudo frameworks de Node.js (como Express.js) e REST API's. </br>
+No presente estudo frameworks de Node.js e REST API's. </br>
 
 Minha stack de tecnologias relevantes são: JavaScript, Nodejs, MySQL, Python. Minhas ferramentas favoritas são: Obsidian, Notepad++, Notion e LibreOffice. </br>
 
