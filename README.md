@@ -76,13 +76,6 @@ Atualmente foco no ecossistema **Node.js**, construção de **APIs REST** e proj
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=jojoaguiar&theme=tokyonight&hide_border=true&locale=pt_BR" />
-</div>
-
----
 
 ### 📫 Vamos nos conectar?
 
