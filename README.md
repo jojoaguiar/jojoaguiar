@@ -79,8 +79,7 @@ Atualmente foco no ecossistema **Node.js**, construção de **APIs REST** e proj
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=jojoaguiar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jojoaguiar&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.demolab.com?user=jojoaguiar&theme=tokyonight&hide_border=true&locale=pt_BR" />
 </div>
 
 ---
