@@ -79,7 +79,7 @@ Atualmente foco no ecossistema **Node.js**, construção de **APIs REST** e proj
 
 ### 📫 Vamos nos conectar?
 
-<a href="https://www.linkedin.com/in/jo%C3%A3o-victor-de-aguiar-68117a3a9/">
+
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:jojoaguiar1401@gmail.com">
